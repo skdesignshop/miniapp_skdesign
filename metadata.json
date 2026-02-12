@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SK DESIGN INDUSTRY",
+  "description": "Premium Mini App for design services with integrated admin panel and user profiles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
